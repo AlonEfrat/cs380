@@ -1,6 +1,6 @@
 ---
 layout: home
-title: CSC380, Fall 2023
+title: CSC380, summer 2024
 nav_exclude: true
 seo:
 type: Course
